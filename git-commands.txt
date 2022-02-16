@@ -1,0 +1,25 @@
+PTOP-A7A53MA1 MINGW64 ~/Documents/devops/git (master)
+$ git remote add <prathap3a3> <https://github.com/prathap3a3/java-web-app-docker.git>
+bash: syntax error near unexpected token `<'
+
+Gopal Uppalapati@LAPTOP-A7A53MA1 MINGW64 ~/Documents/devops/git (master)
+$ history
+    1  touch 1
+    2  ls
+    3  git status
+    4  git add 1
+    5  git status
+    6  touch file1
+    7  la
+    8  ls
+    9  git add file1
+   10  ls
+   11  git status
+   12  clear
+   13  git config--list
+   14  git config -- list
+   15  git config --list
+   16  git init
+   17  ls
+   18  git init
+   19  ls
